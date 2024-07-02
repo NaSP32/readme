@@ -1,5 +1,4 @@
 # readme
-Creacion de un readme de presentacion para git-hub utilizando markdown
 
 
 <h1 align="center">Hola 👋, soy Nadia Soledad Pereyra</h1>
